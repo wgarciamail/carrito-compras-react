@@ -185,3 +185,8 @@ En este paso, crearemos los componentes especializados `Card` y `NavBar` para mo
 ¡Felicidades! Has completado la configuración inicial y la creación de los componentes principales para tu carrito de compras en React. En los siguientes pasos, puedes continuar implementando la lógica y el estilo de tu aplicación según tus necesidades.
 
 Recuerda que este tutorial es solo una guía básica y puedes personalizar y mejorar tu carrito de compras agregando funcionalidades adicionales y estilos avanzados.
+
+
+## Página de los recursos usados:
+https://mui.com/
+https://reactrouter.com/en/main/start/tutorial
